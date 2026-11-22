@@ -7,7 +7,7 @@
 
 ---
 
-## Tentang Ekosistem IFOC & IFOC Eduliga ($IFX)
+## Tentang Ekosistem IFOC
 **Indonesian First Optimist Club (IFOC)** adalah organisasi pendidikan dan sosial yang memadukan program pembelajaran berkualitas, kompetisi nasional-internasional, pemberdayaan sosial, serta transparansi utilitas digital **IFOC Eduliga ($IFX)** di jaringan **Base**.
 
 Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumur Hidup (*Lifetime Membership*)** dengan kontribusi tunggal (sekali bayar untuk selamanya):
@@ -27,8 +27,8 @@ Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumu
 10. **Program Edu Tour:** Kesempatan mengikuti program kunjungan edukasi gratis dan berasuransi.
 11. **Sertifikasi Keterampilan & Prestasi Global:** Akses program sertifikasi terkurasi dan peluang mewakili Indonesia di ajang internasional.
 
-## Struktur Tokenomics Ringkas ($IFX)
-* **Nama & Simbol:** IFOC Eduliga (`$IFX`)
+## Struktur Tokenomics Ringkas (IFX)
+* **Nama & Simbol:** IFOC Eduliga (IFX)
 * **Jaringan:** Base (Ethereum Layer-2)
 * **Total Suplai Tetap (*Hard Cap*):** `1.100.000 IFX` *(Non-Mintable)*
 * **Satuan Mikro Ekosistem:** `1 IFX = 1.000.000 mIFX`
@@ -37,9 +37,9 @@ Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumu
 
 *Dikelola oleh Pengurus Pusat Indonesian First Optimist Club (IFOC). Pembayaran keanggotaan di Indonesia menggunakan kanal resmi QRIS Rupiah sesuai ketentuan hukum nasional, sedangkan token $IFX berfungsi sebagai aset utilitas dan penghargaan komunitas.*
 
-
+Cek di sini untuk chart lengkapnya:
 <div
-  style="
+style="
     position: relative;
     box-sizing: content-box;
     height: 80vh;
