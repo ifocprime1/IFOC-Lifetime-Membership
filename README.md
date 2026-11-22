@@ -1,5 +1,5 @@
-# Indonesian First Optimist Club (IFOC) — IFOC Eduliga (IFX)
-**Portal Resmi Keanggotaan Seumur Hidup, Ekosistem Pendidikan, Kompetisi, Sosial, dan Utilitas Digital.**
+# Indonesian First Optimist Club (IFOC) — IFOC Eduliga ($IFX)
+**Portal Resmi Keanggotaan Seumur Hidup & Ekosistem Pendidikan, Kompetisi, Sosial, dan Utilitas Digital.**
 
 [![Network](https://img.shields.io/badge/Network-Base_Mainnet-0052FF?style=flat-square)](https://base.org)
 [![Token](https://img.shields.io/badge/Utility_Token-$IFX_(1.1M_Hard_Cap)-10B981?style=flat-square)](#)
@@ -7,7 +7,7 @@
 
 ---
 
-## Tentang Ekosistem IFOC
+## Tentang Ekosistem IFOC & IFOC Eduliga ($IFX)
 **Indonesian First Optimist Club (IFOC)** adalah organisasi pendidikan dan sosial yang memadukan program pembelajaran berkualitas, kompetisi nasional-internasional, pemberdayaan sosial, serta transparansi utilitas digital **IFOC Eduliga ($IFX)** di jaringan **Base**.
 
 Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumur Hidup (*Lifetime Membership*)** dengan kontribusi tunggal (sekali bayar untuk selamanya):
@@ -27,8 +27,8 @@ Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumu
 10. **Program Edu Tour:** Kesempatan mengikuti program kunjungan edukasi gratis dan berasuransi.
 11. **Sertifikasi Keterampilan & Prestasi Global:** Akses program sertifikasi terkurasi dan peluang mewakili Indonesia di ajang internasional.
 
-## Struktur Tokenomics Ringkas (IFX)
-* **Nama & Simbol:** IFOC Eduliga (IFX)
+## Struktur Tokenomics Ringkas ($IFX)
+* **Nama & Simbol:** IFOC Eduliga (`$IFX`)
 * **Jaringan:** Base (Ethereum Layer-2)
 * **Total Suplai Tetap (*Hard Cap*):** `1.100.000 IFX` *(Non-Mintable)*
 * **Satuan Mikro Ekosistem:** `1 IFX = 1.000.000 mIFX`
@@ -36,29 +36,3 @@ Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumu
 ---
 
 *Dikelola oleh Pengurus Pusat Indonesian First Optimist Club (IFOC). Pembayaran keanggotaan di Indonesia menggunakan kanal resmi QRIS Rupiah sesuai ketentuan hukum nasional, sedangkan token $IFX berfungsi sebagai aset utilitas dan penghargaan komunitas.*
-
-Cek di sini untuk chart lengkapnya:
-<div
-style="
-    position: relative;
-    box-sizing: content-box;
-    height: 80vh;
-    width: 100%;
-  "
->
-  <iframe
-    src="https://chart-generator.draxlr.com/embed/NfhFR2rPjxynD67hLwcZfnOiPHu1RVIH"
-    loading="lazy"
-    title="Draxlr doughnut chart"
-    frameborder="0"
-    webkitallowfullscreen="true"
-    mozallowfullscreen="true"
-    style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    "
-  ></iframe>
-</div>
