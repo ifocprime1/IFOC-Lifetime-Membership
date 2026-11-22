@@ -1,5 +1,5 @@
-# Indonesian First Optimist Club (IFOC) — IFOC Eduliga ($IFX)
-**Portal Resmi Keanggotaan Seumur Hidup & Ekosistem Pendidikan, Kompetisi, Sosial, dan Utilitas Digital.**
+# Indonesian First Optimist Club (IFOC) — IFOC Eduliga (IFX)
+**Portal Resmi Keanggotaan Seumur Hidup, Ekosistem Pendidikan, Kompetisi, Sosial, dan Utilitas Digital.**
 
 [![Network](https://img.shields.io/badge/Network-Base_Mainnet-0052FF?style=flat-square)](https://base.org)
 [![Token](https://img.shields.io/badge/Utility_Token-$IFX_(1.1M_Hard_Cap)-10B981?style=flat-square)](#)
