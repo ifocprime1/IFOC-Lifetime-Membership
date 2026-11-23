@@ -34,5 +34,6 @@ Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumu
 * **Satuan Mikro Ekosistem:** `1 IFX = 1.000.000 mIFX`
 
 ---
+Kegiatan kami sebelumnya: https://myemail.constantcontact.com/Newsday-Tuesday.html?soid=1101808351451&aid=g6_7DYo2Zi8
 
 *Dikelola oleh Pengurus Pusat Indonesian First Optimist Club (IFOC). Pembayaran keanggotaan di Indonesia menggunakan QRIS Rupiah sesuai ketentuan hukum nasional, sedangkan token $IFX berfungsi sebagai aset utilitas dan penghargaan komunitas.*
