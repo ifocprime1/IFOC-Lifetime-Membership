@@ -35,4 +35,4 @@ Melalui portal ini, masyarakat dapat bergabung dalam **Program Keanggotaan Seumu
 
 ---
 
-*Dikelola oleh Pengurus Pusat Indonesian First Optimist Club (IFOC). Pembayaran keanggotaan di Indonesia menggunakan kanal resmi QRIS Rupiah sesuai ketentuan hukum nasional, sedangkan token $IFX berfungsi sebagai aset utilitas dan penghargaan komunitas.*
+*Dikelola oleh Pengurus Pusat Indonesian First Optimist Club (IFOC). Pembayaran keanggotaan di Indonesia menggunakan QRIS Rupiah sesuai ketentuan hukum nasional, sedangkan token $IFX berfungsi sebagai aset utilitas dan penghargaan komunitas.*
